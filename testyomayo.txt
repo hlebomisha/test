@@ -1,2 +1,3 @@
 print("hello world")
 print("это наверное питон")
+print("vash comp shas babax")
